@@ -1,7 +1,1 @@
-{+filter{webcdn} \
-}
-www.zalando.de
-www.amazon.com
-www.esprit.de
-www.edited.de
-www.asos.com
+{ +filter{webcdn} }
